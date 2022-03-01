@@ -1,4 +1,4 @@
-# BigQuery Reader
+# Bucket Deleter
 
 This is a sample project that shows you how to write a Node.JS script that deletes all files from a Cloud Storage bucket.
 
